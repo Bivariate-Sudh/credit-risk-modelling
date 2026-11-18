@@ -236,18 +236,5 @@ The dataset is relatively small, and model performance may not generalize to a r
 
 A production credit-risk system would require additional validation, monitoring, governance, explainability, fairness assessment, and domain-specific risk controls.
 
-## Future Improvements
-
-Possible future improvements include:
-
-* Probability calibration
-* More advanced models such as XGBoost
-* SHAP-based model explainability
-* Cost-sensitive learning
-* Additional credit-related variables
-* Model monitoring
-* Fairness analysis
-* External validation on another dataset
-* Deployment through a cloud platform
 
 
